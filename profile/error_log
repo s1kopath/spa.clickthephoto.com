@@ -1,0 +1,16 @@
+[07-Jan-2021 09:49:57 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'clickthep_profile_user'@'localhost' (using password: YES) in /home/clickthep/promiseitsolution.com/profile/DbConnection.php on line 15
+[07-Jan-2021 09:49:57 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 36
+[07-Jan-2021 09:49:57 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 36
+[07-Jan-2021 09:49:57 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 14
+[07-Jan-2021 09:49:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/clickthep/promiseitsolution.com/profile/User.php on line 16
+[07-Jan-2021 09:50:10 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'clickthep_profile_user'@'localhost' (using password: YES) in /home/clickthep/promiseitsolution.com/profile/DbConnection.php on line 15
+[07-Jan-2021 09:50:10 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 36
+[07-Jan-2021 09:50:10 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 36
+[07-Jan-2021 09:50:10 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/clickthep/promiseitsolution.com/profile/User.php on line 14
+[07-Jan-2021 09:50:10 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/clickthep/promiseitsolution.com/profile/User.php on line 16
+[24-Feb-2021 08:05:34 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/home.php on line 13
+[24-Feb-2021 08:06:48 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/home.php on line 13
+[24-Feb-2021 08:07:39 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/home.php on line 13
+[02-Mar-2021 02:32:41 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/home.php on line 13
+[16-Mar-2021 23:05:18 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/fiver.php on line 13
+[16-Mar-2021 23:05:33 America/New_York] PHP Notice:  Undefined index: user in /home/clickthep/promiseitsolution.com/profile/upwork.php on line 13

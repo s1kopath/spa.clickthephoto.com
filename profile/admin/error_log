@@ -1,0 +1,6 @@
+[27-Dec-2020 08:24:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/clickthep/promiseitsolution.com/profile/admin/index.php on line 4
+[27-Dec-2020 08:24:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/clickthep/promiseitsolution.com/profile/admin/index.php on line 4
+[27-Dec-2020 08:24:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clickthep/promiseitsolution.com/profile/admin/index.php on line 5
+[27-Dec-2020 08:24:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clickthep/promiseitsolution.com/profile/admin/admin/modal.php on line 73
+[27-Dec-2020 08:24:43 America/New_York] PHP Notice:  Undefined variable: did in /home/clickthep/promiseitsolution.com/profile/admin/admin/modal.php on line 135
+[27-Dec-2020 08:24:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clickthep/promiseitsolution.com/profile/admin/admin/modal.php on line 136
